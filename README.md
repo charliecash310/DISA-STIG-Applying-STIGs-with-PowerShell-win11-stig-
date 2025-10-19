@@ -20,8 +20,6 @@ Each control includes:
 ---
 
 ## 🧩 Repository Structure
-```
-
 Each STIG folder includes:
 ```
 ├── README.md
